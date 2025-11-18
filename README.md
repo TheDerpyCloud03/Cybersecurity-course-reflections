@@ -46,7 +46,8 @@ Investigating simulated security breaches and creating incident reports
 
 Setting up secure networks and implementing best practices for system protection
 
-Wich will be linked. These projects provided hands-on exposure to real-world cybersecurity scenarios and strengthened my problem-solving skills.
+Wich are linked here:https://github.com/TheDerpyCloud03/My-python-Projects
+These projects provided hands-on exposure to real-world cybersecurity scenarios and strengthened my problem-solving skills.
 
 Next Steps
 
